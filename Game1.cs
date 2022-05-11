@@ -46,6 +46,7 @@ namespace monogame_first_project
             // TODO: Add your update logic here
 
             base.Update(gameTime);
+
         }
 
         protected override void Draw(GameTime gameTime)
